@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HeroSprite\hero.png</Source>
+      <Name>HeroSprite\hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\hero.xnb</Output>
+      <Time>2015-07-11T09:29:21.3514436+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\bg.png</Source>
+      <Name>HeroSprite\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\bg.xnb</Output>
+      <Time>2015-06-20T10:42:16.1187407+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\hero22.png</Source>
+      <Name>HeroSprite\hero22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\hero22.xnb</Output>
+      <Time>2015-07-11T10:19:34.0676366+08:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroSprite\support.png</Source>
+      <Name>HeroSprite\support</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\support.xnb</Output>
+      <Time>2015-07-11T10:32:45.77421+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\button_attack.png</Source>
+      <Name>Button\button_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Button\button_attack.xnb</Output>
+      <Time>2015-07-18T09:28:48.2924907+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\button_play.png</Source>
+      <Name>Button\button_play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Button\button_play.xnb</Output>
+      <Time>2015-07-18T09:22:17.0135079+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-07-18T09:32:22.532378+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocallaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocallaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

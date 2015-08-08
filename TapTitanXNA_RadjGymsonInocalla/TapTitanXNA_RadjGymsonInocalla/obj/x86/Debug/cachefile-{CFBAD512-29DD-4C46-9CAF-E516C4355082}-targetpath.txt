@@ -1,0 +1,7 @@
+Content\HeroSprite\hero.xnb
+Content\HeroSprite\bg.xnb
+Content\HeroSprite\hero22.xnb
+Content\HeroSprite\support.xnb
+Content\Button\button_attack.xnb
+Content\Button\button_play.xnb
+Content\Font.xnb

@@ -1,0 +1,13 @@
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\TapTitanXNA_RadjGymsonInocalla.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\TapTitanXNA_RadjGymsonInocalla.pdb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\obj\x86\Debug\TapTitanXNA_RadjGymsonInocalla.csprojResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\obj\x86\Debug\TapTitanXNA_RadjGymsonInocalla.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\obj\x86\Debug\TapTitanXNA_RadjGymsonInocalla.pdb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\bg.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\hero22.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\HeroSprite\support.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Button\button_attack.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Button\button_play.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\TapTitanXNA_RadjGymsonInocalla\bin\x86\Debug\Content\Font.xnb
